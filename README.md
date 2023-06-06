@@ -12,7 +12,7 @@ Collection of React Hooks
 - [x] useConfirm
 - [x] usePreventLeave
 - [x] useBeforeLeave
-- [ ] useFadeIn
+- [x] useFadeIn
 - [ ] useNetwork
 - [ ] useScroll
 - [ ] useFullscreen
