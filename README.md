@@ -37,4 +37,4 @@ React Hook to upgrade your document's title
 
 ## More information
 
-    [React official documentation](https://react.dev/reference/react)
+[React official documentation](https://react.dev/reference/react)
