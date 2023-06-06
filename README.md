@@ -34,3 +34,7 @@ React Hook to upgrade your document's title
 | usePreventLeave | Prompt the user for confirmation before leaving the page. | [Documentation](https://github.com/nomadcoders/nooks/tree/master/usePreventLeave) | [NPM Page](https://www.npmjs.com/package/@nooks/use-prevent-leave) |
 | useFadeIn       | Fade in any element.                                      | [Documentation](https://github.com/nomadcoders/nooks/tree/master/useFadeIn)       | [NPM Page](https://www.npmjs.com/package/@nooks/use-fade-in)       |
 | useFullscreen   | Make any element go Fullscreen                            | [Documentation](https://github.com/nomadcoders/nooks/tree/master/useFullScreen)   | [NPM Page](https://www.npmjs.com/package/@nooks/use-fullscreen)    |
+
+## More information
+
+    [React official documentation](https://react.dev/reference/react)
