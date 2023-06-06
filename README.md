@@ -18,4 +18,4 @@ Collection of React Hooks
 - [x] useScroll
 - [x] useFullscreen
 - [x] useNotification
-- [ ] useAxios
+- [x] useAxios
