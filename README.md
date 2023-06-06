@@ -9,6 +9,7 @@ Collection of React Hooks
 - [x] useEffect
 - [x] useTitle
 - [x] useClick
+- [x] useHover
 - [x] useConfirm
 - [x] usePreventLeave
 - [x] useBeforeLeave
@@ -16,6 +17,5 @@ Collection of React Hooks
 - [x] useNetwork
 - [x] useScroll
 - [x] useFullscreen
-- [ ] useNotification
+- [x] useNotification
 - [ ] useAxios
-- [ ] useHover
