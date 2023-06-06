@@ -3,7 +3,7 @@
 Collection of React Hooks
 
 [O] useInput
-[ ] useTabs
+[O] useTabs
 [ ] useTitle
 [ ] useConfirm
 [ ] usePreventLeave
