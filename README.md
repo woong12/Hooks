@@ -10,7 +10,7 @@ Collection of React Hooks
     - [X] useTitle
     - [X] useClick
     - [X] useConfirm
-    - [ ] usePreventLeave
+    - [X] usePreventLeave
     - [ ] useBeforeLeave
     - [ ] useFadeIn
     - [ ] useNetwork
