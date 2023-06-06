@@ -2,17 +2,17 @@
 
 Collection of React Hooks
 
-[ ] useTitle
-[ ] useInput
-[ ] usePageLeave
-[ ] useClick
-[ ] useFadeIn
-[ ] useFullscreen
-[ ] useHover
-[ ] useNetwork
-[ ] useNotification
-[ ] useScroll
+[O] useInput
 [ ] useTabs
-[ ] usePreventLeave
+[ ] useTitle
 [ ] useConfirm
+[ ] usePreventLeave
+[ ] useBeforeLeave
+[ ] useFadeIn
+[ ] useNetwork
+[ ] useScroll
+[ ] useFullscreen
+[ ] useNotification
 [ ] useAxios
+[ ] useClick
+[ ] useHover
