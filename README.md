@@ -4,10 +4,10 @@ Collection of React Hooks
 
 ### Hooks
 
-    [O] useInput
-    [O] useTabs
-    [O] useEffect
-    [ ] useTitle
+    [X] useInput
+    [X] useTabs
+    [X] useEffect
+    [X] useTitle
     [ ] useConfirm
     [ ] usePreventLeave
     [ ] useBeforeLeave
