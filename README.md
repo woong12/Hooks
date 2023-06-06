@@ -15,7 +15,7 @@ Collection of React Hooks
 - [x] useFadeIn
 - [x] useNetwork
 - [x] useScroll
-- [ ] useFullscreen
+- [x] useFullscreen
 - [ ] useNotification
 - [ ] useAxios
 - [ ] useHover
