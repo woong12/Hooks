@@ -6,6 +6,7 @@ Collection of React Hooks
 
     [O] useInput
     [O] useTabs
+    [O] useEffect
     [ ] useTitle
     [ ] useConfirm
     [ ] usePreventLeave
